@@ -1,0 +1,133 @@
+body{
+    background-color: #9df9ef;
+}
+a {
+    color:rgb(18, 32, 229);
+    }
+    #tit {
+    color: rgb(255, 0, 102);
+    }
+    .curs_CA {
+        border: 2px solid black;
+        margin: 5px;
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        box-shadow: 3px 3px 10px rgb(186, 36, 36);
+        background-image: url('fotos/catala.png');
+        }
+    .curs_ES {
+        border: 2px solid black;
+        margin: 5px;
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        box-shadow: 3px 3px 10px rgb(186, 36, 36);
+        background-image: url('fotos/castella.png');
+        }
+    .curs_FR {
+        border: 2px solid black;
+        margin: 5px;
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        box-shadow: 3px 3px 10px rgb(186, 36, 36);
+        background-image: url('fotos/franca.jpg');
+        }
+    .curs_EN {
+        border: 2px solid black;
+        margin: 5px;
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        box-shadow: 3px 3px 10px rgb(186, 36, 36);
+        background-image: url('fotos/angle.jpg');
+        }
+    .curs_DE {
+        border: 2px solid black;
+        margin: 5px;
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        box-shadow: 3px 3px 10px rgb(186, 36, 36);
+        background-image: url('fotos/alemany.jpg');
+        }
+    .curs_PT {
+        border: 2px solid black;
+        margin: 5px;
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        box-shadow: 3px 3px 10px rgb(186, 36, 36);
+        background-image: url('fotos/portugal.jpg');
+        }
+    #menu-principal{
+    background-color: rgb(194, 192, 255);
+    color: blue;
+    border: 2px solid rgb(37, 169, 240);
+    margin: 20px;
+    padding: 20px;
+    
+    }
+    ul, li {
+    padding: 10,0;
+    margin: 20px ,20px;
+    }
+    li:hover{
+        background-color: aquamarine;
+    }
+footer {
+    background-color: rgb(7, 218, 218);
+    padding: 10px, 10px;
+    margin: 0;
+}
+.video {
+   box-shadow: 10px 3px 10px grey;
+   border-radius: 20px; 
+   width: 50%;
+   height: 50%;
+}
+#titol {
+    background-image: url('ElMundo.jpg');
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 150px;
+}
+.text_titol {
+    padding: 3px;
+}
+
+.titol_curs{
+    color: white;
+    text-align: center;
+    background-color: rgb(95, 80, 194);
+    border: 2px solid rgb(37, 169, 240);
+    margin: 20px;
+    padding: 20px;
+
+}
+.nom_curs{
+    color: white;
+    background-color: rgb(45, 31, 133);
+    width: 35%;
+    border: 2px solid rgb(37, 169, 240);
+    margin: 20px;
+    padding: 20px;
+}
+.Formulari_titol{
+    color: white;
+    background-color: rgb(45, 31, 133);
+}
